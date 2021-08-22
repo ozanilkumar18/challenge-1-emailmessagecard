@@ -6,17 +6,17 @@ Make a new react component for displaying an email message called EmailMessageCa
 
 Here's what the component will look like on a grey background, expanded (upper) and collapsed (lower)
 
-![EmailMessageCard expanded and collapsed](/challenge-1-emailmessagecard/readme-images/EmailMessageCard-expanded-and-collapsed.png)
+![EmailMessageCard expanded and collapsed](readme-images/EmailMessageCard-expanded-and-collapsed.png)
 
 (Accurate image width should be 650px)
 
 If any cc recipients are provided, please display (when expanded) under the `To` recipients
 
-![CC recipients](/challenge-1-emailmessagecard/readme-images/EmailMessageCard-cc.png)
+![CC recipients](/readme-images/EmailMessageCard-cc.png)
 
 When expanded, click on the ... button to show further options
 
-![Further options buttons](/challenge-1-emailmessagecard/readme-images/EmailMessageCard-buttons.png)
+![Further options buttons](/readme-images/EmailMessageCard-buttons.png)
 
 (Accurate image width should be 290px)
 
