@@ -2,11 +2,11 @@
 
 ### Design / behaviour /Screens
 
-![expanded_view](/readme-images/expanded_view.png)
+![expanded_view](/readme-images/expanded_view.PNG)
+
+![collapsed_view](/readme-images/collapsed_view.PNG)
 
 ![menu_options_view](/readme-images/menu_options_view.png)
-
-![collapsed_view](/readme-images/collapsed_view.png)
 
 ### How to view/demo component
 
@@ -14,9 +14,9 @@
 
 In the project directory, you can run:
 
-To start the project, please use "yarn start".
-
 ### `yarn install`
+
+To start the project, please use "yarn start".
 
 ### `yarn start`
 
